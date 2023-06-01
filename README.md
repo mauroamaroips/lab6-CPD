@@ -1,4 +1,4 @@
-# Laboratório 5 - Aplicações com Sockets
+# Laboratório 6 - Aplicações com Sockets
 
 Laboratório 6 de Computação Paralela e Distribuída - 2022/2023
 
